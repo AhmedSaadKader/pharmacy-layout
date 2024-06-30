@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "388175489657",
+    "project_id": "pharmacy-layout",
+    "storage_bucket": "pharmacy-layout.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388175489657:android:e48dfb6a413003ffc202a8",
+        "android_client_info": {
+          "package_name": "com.phlayout.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLFFPO9AAmJ98Lyy4q0E4jVAgoKFfXuuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
